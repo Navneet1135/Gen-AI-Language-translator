@@ -62,8 +62,8 @@ The application allows users to input text, select source and target languages, 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Navneet1135/Gen-AI-Language-translator.git
+cd Gen-AI-Language-translator
 ```
 
 ### 2️⃣ Install dependencies
